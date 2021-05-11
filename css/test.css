@@ -1,0 +1,28 @@
+
+body{
+	background-color: violet;
+}
+
+h1 {
+		font-size: 30px;
+		color: teal;
+	}
+	{
+		font-size: 20px
+		color:black;
+	}
+
+	.big{
+		font-size: 60px
+	}
+
+	.uppercase{
+		text-transform: uppercase;
+	}
+
+	.big.uppercase{
+		color: navy;
+	}
+	span{
+		color: violet
+	}
