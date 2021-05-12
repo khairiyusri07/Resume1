@@ -1,0 +1,74 @@
+body{
+	margin: 0;
+	font-family: 'Helvetica', 'Arial' , 'san-serif';
+	line-height: 30px
+}
+
+header{
+	background-color: black;
+	text-align:center;
+	padding-top: 50px; 
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: 'Lobster', cursive;
+}
+
+header h1{
+	color: white;
+	font-size: 50px
+	
+}
+
+header img{
+	border-radius: 190px;
+    width: 700px;
+    border: 20px solid white;
+    }
+
+
+main{
+    	max-width: 800px;
+    	margin: 0 auto;
+    	padding: 0 20px 20px 100px;
+
+    }
+
+main img{
+	max-height: 100%
+}
+
+h2{
+	font-size: 35px;
+	color:green;
+	margin: 40px 0 0;
+}
+
+p{
+	font-size: 20px
+}
+
+a{
+	color: green;
+}
+
+a:hover{
+	color: blue
+}
+footer p{
+	margin: 0
+}
+
+footer{
+	background-color: green;
+	text-align: center;
+	padding: 20px;
+	color: white;
+}
+
+p.caption{
+	color: grey;
+	font-style: italic;
+	margin-top: 0;
+}
